@@ -1,0 +1,3 @@
+fala = print ("AlÔ mundo!")
+
+                                                                                                                                                                                                                                                                                             
